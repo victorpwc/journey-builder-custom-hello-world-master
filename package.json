@@ -15,6 +15,7 @@
   },
   "engines": {
     "node": "0.10.7"
+    "npm": "2.1.x"
   },
   "license": "BSD-3-Clause"
 }
